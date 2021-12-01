@@ -1,0 +1,12 @@
+disnake>=2.2.0
+git+https://github.com/zRitsu/Wavelink.git@disnake
+python-dotenv
+spotipy
+requests
+humanize
+tornado
+motor
+dnspython
+fake-useragent
+PyNaCl
+yt-dlp
